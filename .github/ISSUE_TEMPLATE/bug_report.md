@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about: Report bugs using the template below
-title: '[BUG] '
+about: Report bugs using this template.
+title: '[BUG] - TITLE'
 labels: ''
 assignees: Kikiisyourfriend
 
@@ -10,9 +10,9 @@ assignees: Kikiisyourfriend
 # Try to search for your issue before creating a new one, it might already be here.
 ### **Confirm your current modpack version:**
 > *Place an `x` inside the `[]` of your preferred answer*
-- [x] 0.2.2
+- [ ] 0.2.2
 - [ ] 0.3.0
-- [ ] 0.3.1
+- [x] 0.3.1
 
 ### **Are you on a server? Or in Singleplayer?:**
 > *Place an `x` inside the `[]` of your preferred answer*
