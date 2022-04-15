@@ -12,7 +12,7 @@ assignees: Kikiisyourfriend
 > *Place an `x` inside the `[]` of your preferred answer*
 - [ ] 0.2.2
 - [ ] 0.3.0
-- [x] 0.3.1
+- [x] 0.3.1 - *latest*
 
 ### **Are you on a server? Or in Singleplayer?:**
 > *Place an `x` inside the `[]` of your preferred answer*
