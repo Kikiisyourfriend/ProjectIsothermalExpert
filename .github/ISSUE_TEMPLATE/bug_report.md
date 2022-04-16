@@ -20,7 +20,7 @@ assignees: Kikiisyourfriend, itsjusttriz
 ```
 Singleplayer
 LAN Server
-Paid Server
+Online Multiplayer Server
 ```
 
 ### **Description:**
