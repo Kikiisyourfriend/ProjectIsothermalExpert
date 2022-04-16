@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report bugs using this template.
 title: '[BUG] - TITLE'
-labels: ''
+labels: ' '
 assignees: Kikiisyourfriend, itsjusttriz
 
 ---
