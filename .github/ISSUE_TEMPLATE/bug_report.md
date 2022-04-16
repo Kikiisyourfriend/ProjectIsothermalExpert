@@ -3,18 +3,18 @@ name: Bug Report
 about: Report bugs using this template.
 title: '[BUG] - TITLE'
 labels: ''
-assignees: Kikiisyourfriend
+assignees: Kikiisyourfriend, itsjusttriz
 
 ---
 
-# Try to search for your issue before creating a new one, it might already be here.
+<!-- Try to search for your issue before creating a new one, it might already be here. -->
 ### **Confirm your current modpack version:**
 > *Erase the options that do not match your issue, below*
 ```
 0.3.1
 0.3.2
 0.3.3 (latest)
-
+```
 ### **Are you on a server? Or in Singleplayer?:**
 > *Erase the options that do not match your issue, below*
 ```
@@ -35,4 +35,5 @@ HERE
 HERE
 ```
 ### **Crash log (*if any*):**
-> *Must use a code-pasting website such as Pastebin, or a Gist.*
+> *Paste URL inside the `()`. Must use a code-pasting website such as Pastebin, or a Gist.*
+[Link
