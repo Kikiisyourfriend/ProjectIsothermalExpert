@@ -3,7 +3,7 @@ name: Bug Report
 about: Report bugs using this template.
 title: '[BUG] - TITLE'
 labels: ' '
-assignees: Kikiisyourfriend, itsjusttriz
+assignees: Kikiisyourfriend
 
 ---
 
