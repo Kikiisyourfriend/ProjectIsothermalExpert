@@ -11,9 +11,9 @@ assignees: Kikiisyourfriend
 ### **Confirm your current modpack version:**
 <!-- Erase the options that do not match your issue, below -->
 ```
-0.3.3
-0.3.4
-0.3.5 (latest)
+0.3.5
+0.3.6
+0.3.7 (latest)
 ```
 ### **Are you on a server? Or in Singleplayer?:**
 <!-- Erase the options that do not match your issue, below -->
