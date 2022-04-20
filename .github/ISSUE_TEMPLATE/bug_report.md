@@ -10,9 +10,9 @@ assignees: Kikiisyourfriend
 # Try to search for your issue before creating a new one, it might already be here.
 ### **Confirm your current modpack version:**
 > *Place an `x` inside the `[]` of your preferred answer*
-- [ ] 0.2.2
-- [ ] 0.3.0
-- [x] 0.3.1 - *latest*
+- [ ] 0.5.0
+- [ ] 0.5.1
+- [x] 0.5.1.1 - *latest*
 
 ### **Are you on a server? Or in Singleplayer?:**
 > *Place an `x` inside the `[]` of your preferred answer*
@@ -33,3 +33,6 @@ HERE
 ```
 ### **Crash log (*if any*):**
 > *Must use a code-pasting website such as Pastebin, or a Gist.*
+```
+HERE
+```
