@@ -1,4 +1,4 @@
-# Copy-Paste Gadget Templates // SPAWN-EGGS
+<!-- # Copy-Paste Gadget Templates // SPAWN-EGGS -->
 > Follow [this](https://github.com/Direwolf20-MC/BuildingGadgets/wiki/Template-Manager) tutorial to understand how to use the templates below.
 <!-- SLIME SPAWN EGG - START -->
 <details>

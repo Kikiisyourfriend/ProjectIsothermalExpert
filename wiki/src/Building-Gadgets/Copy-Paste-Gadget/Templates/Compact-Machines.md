@@ -1,4 +1,4 @@
-# Copy-Paste Gadget Templates // COMPACT-MACHINES
+<!-- # Copy-Paste Gadget Templates // COMPACT-MACHINES -->
 > Follow [this](https://github.com/Direwolf20-MC/BuildingGadgets/wiki/Template-Manager) tutorial to understand how to use the templates below.
 > 
 <!-- COMPACT MACHINE TINY - START -->

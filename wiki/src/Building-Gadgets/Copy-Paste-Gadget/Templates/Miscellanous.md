@@ -1,4 +1,4 @@
-# Copy-Paste Gadget Templates // MISCELLANEOUS
+<!-- # Copy-Paste Gadget Templates // MISCELLANEOUS -->
 > Follow [this](https://github.com/Direwolf20-MC/BuildingGadgets/wiki/Template-Manager) tutorial to understand how to use the templates below.
 <!-- COLLECTOR CRYSTAL - START -->
 <details>
