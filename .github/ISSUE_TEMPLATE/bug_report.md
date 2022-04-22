@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report bugs using this template.
-title: '[BUG] - TITLE'
+title: '[BUG] - *TITLE_HERE*'
 labels: ' '
 assignees: Kikiisyourfriend
 
@@ -11,9 +11,9 @@ assignees: Kikiisyourfriend
 ### **Confirm your current modpack version:**
 <!-- Erase the options that do not match your issue, below -->
 ```
-0.5.0
-0.5.1
-0.5.1.1 (latest)
+0.5.1.1
+0.5.2
+0.5.3 (latest)
 ```
 ### **Are you on a server? Or in Singleplayer?:**
 <!-- Erase the options that do not match your issue, below -->
