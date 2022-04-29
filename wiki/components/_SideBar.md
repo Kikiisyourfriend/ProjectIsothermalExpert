@@ -11,6 +11,16 @@
     <!--  -->
     <details>
         <summary>
+            <a href="https://github.com/Kikiisyourfriend/ProjectIsothermalExpert/wiki/Scavenge">Scavenge</a>
+        </summary>
+        <ul>
+            <li>Nothing Here</li>
+        </ul>
+    </details>
+    <!--  -->
+    <!--  -->
+    <details>
+        <summary>
             <a href="https://github.com/Kikiisyourfriend/ProjectIsothermalExpert/wiki/BuildingGadgets">Building Gadgets</a>
         </summary>
         <ul>
