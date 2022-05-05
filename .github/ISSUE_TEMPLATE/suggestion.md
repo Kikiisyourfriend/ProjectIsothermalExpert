@@ -12,9 +12,9 @@ assignees: Kikiisyourfriend
 > We ask for this incase this suggestion has already been implemented in a newer version.
 <!-- Erase the options that do not match your issue, below -->
 ```
-0.6.0
-0.6.1
-0.6.2 (latest)
+1.0
+1.0.1
+1.0.2 (latest)
 ```
 ### **What is this suggestion focused on?:**
 <!-- Erase the options that do not match your issue, below -->
